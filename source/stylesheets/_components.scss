@@ -1,0 +1,46 @@
+.post {
+	margin-bottom: 8rem;
+}
+
+.post__meta {
+	color: #777;
+	font-family: $header-font;
+}
+
+.post__link {
+}
+
+.post__link:hover {
+}
+
+nav.main-nav {
+	flex: 1 1 auto;
+}
+
+
+.social-links {
+	flex: 0 0 auto;
+}
+
+.social-links__list {
+	list-style: none;
+	padding: 0;
+}
+
+.social-links__item {
+}
+
+label {
+	display: block;
+}
+
+.fields {
+	margin-bottom: 1rem;
+}
+
+ul {
+	margin: 0;
+	margin-bottom: 1rem;
+	padding: 0;
+	list-style: none;
+}

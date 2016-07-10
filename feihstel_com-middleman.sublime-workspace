@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/index.html.slim",
+			"settings":
+			{
+				"buffer_size": 44,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/stylesheets/site.css.scss",
+			"settings":
+			{
+				"buffer_size": 38,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 168.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/michaelfeihstel/projects/feihstel_com-middleman",
+		"/Users/michaelfeihstel/projects/feihstel_com-middleman/source",
+		"/Users/michaelfeihstel/projects/feihstel_com-middleman/source/stylesheets"
+	],
+	"file_history":
+	[
+		"/Users/michaelfeihstel/projects/feihstel_com-middleman/source/stylesheets/site.css.scss",
+		"/Users/michaelfeihstel/projects/feihstel_com-middleman/Gemfile",
+		"/Users/michaelfeihstel/projects/feihstel_com-middleman/config.rb",
+		"/Users/michaelfeihstel/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/michaelfeihstel/projects/feihstel_com-middleman/source/stylesheets/_normalize.scss",
+		"/Users/michaelfeihstel/projects/feihstel_com-middleman/source/index.html.slim",
+		"/Users/michaelfeihstel/.bash_profile",
+		"/Users/michaelfeihstel/.bashrc",
+		"/Users/michaelfeihstel/projects/musicbee-web/source/stylesheets/all.scss",
+		"/Users/michaelfeihstel/projects/musicbee-web/source/javascripts/vendor/jquery.min.js",
+		"/Users/michaelfeihstel/projects/musicbee-web/source/javascripts/all.js",
+		"/Users/michaelfeihstel/projects/musicbee-web/source/layouts/layout.slim",
+		"/Users/michaelfeihstel/projects/musicbee-web/source/stylesheets/_icons.scss",
+		"/Users/michaelfeihstel/projects/musicbee-web/beekeeper-example/beekeeper.js",
+		"/Users/michaelfeihstel/projects/musicbee-web/beekeeper-example/index.html",
+		"/Users/michaelfeihstel/projects/musicbee-web/beekeeper-example/player.html",
+		"/Users/michaelfeihstel/projects/musicbee-web/config.rb",
+		"/Users/michaelfeihstel/projects/musicbee-web/Gemfile",
+		"/Users/michaelfeihstel/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/michaelfeihstel/projects/musicbee-web/source/stylesheets/_layout.scss",
+		"/Users/michaelfeihstel/projects/musicbee-web/source/index.html.slim",
+		"/Users/michaelfeihstel/projects/musicbee-web/source/stylesheets/_components.scss",
+		"/Users/michaelfeihstel/projects/musicbee-web/.gitignore",
+		"/Users/michaelfeihstel/projects/musicbee-web/beekeeper-example/json2.js",
+		"/Users/michaelfeihstel/projects/musicbee-web/source/javascripts/beekeeper-settings.js"
+	],
+	"find":
+	{
+		"height": 71.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"box-sizing",
+			"playpause",
+			"<div id=\"",
+			"playpause",
+			"Player_PlayPause",
+			"link_Player_PlayPause"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/index.html.slim",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+							"syntax": "Packages/Ruby Slim/Syntaxes/Ruby Slim.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/stylesheets/site.css.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "feihstel_com-middleman.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"com",
+				"source/stylesheets/_components.scss"
+			],
+			[
+				"all",
+				"source/stylesheets/all.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

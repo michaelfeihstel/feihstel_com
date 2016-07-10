@@ -1,0 +1,55 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+}
+
+body {
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	width: 100%;
+	background-color: $mint-gray;
+	overflow: hidden;
+	border: 1rem solid $white;
+}
+
+img {
+	max-width: 100%;
+}
+
+.container {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	margin: 1rem;
+	padding: 2rem 0;
+	display: flex;
+	align-items: stretch;
+	flex-direction: row;
+}
+
+aside {
+	display: flex;
+	flex-direction: column;
+	padding: 0 2rem;
+	flex: 0 0 300px;
+	border-right: 1px solid #aaa;
+}
+
+main {
+	flex: 1 1 auto;
+	padding: 0 4rem;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
+}
+
+.content {
+	width: 100%;
+	max-width: 50rem;
+}

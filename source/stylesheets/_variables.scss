@@ -1,0 +1,39 @@
+/* COLORS */
+$slate: #4C4754;
+$mint-gray: #EBEBF0;
+$white: #FFF;
+$sky-blue: #90a1ff;
+$black: #333;
+
+$background-color: $mint-gray;
+$accent-color: $sky-blue;
+
+/* FONTS */
+$header-font: "Asul", "Georgia", "serif";
+$body-font: "Heebo", "sans-serif";
+
+/* BREAKPOINTS */
+$end-mobile: 767px;
+$start-tablet-portrait: 768px;
+$end-tablet-portrait: 1023px;
+$start-tablet-landscape: 1024px;
+$end-tablet-landscape: 1279px;
+$start-desktop: 1280px;
+
+@mixin tablet-portrait() {
+  @media screen and (min-width: $start-tablet-portrait) {
+    @content;
+  }
+}
+
+@mixin tablet-landscape() {
+  @media screen and (min-width: $start-tablet-landscape) {
+    @content;
+  }
+}
+
+@mixin desktop() {
+  @media screen and (min-width: $start-desktop) {
+    @content;
+  }
+}
