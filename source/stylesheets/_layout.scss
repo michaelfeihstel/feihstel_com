@@ -6,15 +6,18 @@ html {
 }
 
 body {
-	position: fixed;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	top: 0;
-	width: 100%;
-	background-color: $mint-gray;
-	overflow: hidden;
-	border: 1rem solid $white;
+	background-color: $white;
+
+	@include tablet-portrait {
+		background-color: $mint-gray;
+		position: fixed;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		top: 0;
+		overflow: hidden;
+		border: 1rem solid $white;
+	}
 }
 
 img {
@@ -22,31 +25,53 @@ img {
 }
 
 .container {
-	position: fixed;
-	top: 0;
-	bottom: 0;
-	right: 0;
-	left: 0;
-	margin: 1rem;
 	padding: 2rem 0;
-	display: flex;
-	align-items: stretch;
-	flex-direction: row;
+
+	@include tablet-portrait {
+		position: fixed;
+		top: 0;
+		bottom: 0;
+		right: 0;
+		left: 0;
+		margin: 1rem;
+		display: flex;
+		align-items: stretch;
+		flex-direction: row;
+	}
 }
 
 aside {
 	display: flex;
 	flex-direction: column;
 	padding: 0 2rem;
-	flex: 0 0 300px;
+	flex: 0 0 200px;
 	border-right: 1px solid #aaa;
+
+	@include tablet-portrait {
+		flex: 0 0 200px;
+	}
+
+	@include tablet-landscape {
+		flex: 0 0 270px;
+	}
+
+	@include desktop {
+		flex: 0 0 300px;
+	}
 }
 
 main {
+	background-color: $mint-gray;
 	flex: 1 1 auto;
-	padding: 0 4rem;
+	margin: 1rem;
+	padding: 0 1rem;
 	overflow-y: scroll;
 	-webkit-overflow-scrolling: touch;
+
+	@include tablet-portrait {
+		margin: 0;
+		padding: 0 4rem;
+	}
 }
 
 .content {
