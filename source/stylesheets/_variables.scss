@@ -9,7 +9,13 @@ $background-color: $mint-gray;
 $accent-color: $sky-blue;
 
 /* FONTS */
-$header-font: "Asul", "Georgia", "serif";
+@font-face {
+	font-family: "Futura";
+	src: url("/assets/fonts/FuturaLT.ttf");
+	font-weight: 400;
+}
+
+$header-font: "Futura";
 $body-font: "Heebo", "sans-serif";
 
 /* BREAKPOINTS */
