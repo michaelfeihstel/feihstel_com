@@ -38,7 +38,7 @@ Tracklist:
 - Khruangbin - White Gloves
 - Boy Dude - Cosmic Lines
 - Alexis Georgopoulos & Jefre Cantu-Ledesma - Cleo
-- Chuck Snerick - Don't Be So Nice
+- Chuck Senrick - Don't Be So Nice
 - Pure Essence - Wake Up
 - Sharon Jones & The Dap Kings - When I Saw Your Face
 - Gene Dunlap - Before You Break My Heart
