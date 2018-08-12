@@ -6,7 +6,7 @@ tags: mixes
 A very calm and moody selection with an expanded ambient section during the first hour, which might serve as soundtrack to long winter nights, before venturing into jazz ballads, soul and electronic territories.
 READMORE
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/372644957&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/372644957&amp;color=90a1ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Tracklist:
 

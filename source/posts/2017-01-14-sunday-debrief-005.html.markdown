@@ -6,7 +6,7 @@ tags: mixes
 Covering a lot of ground here - from jazzy ambient to soulful house, disco to pad-heavy electronica, percussive weirdness to latin classics and slowly back to ambient. No focus at all.
 READMORE
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301518471&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301518471&amp;color=90a1ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 Tracklist:
 

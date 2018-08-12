@@ -10,7 +10,7 @@ READMORE
 This very first issue starts off with a recent ambient favorite from [Dang Olsen Dream Tape on Constellation Tatsu](http://www.ctatsu.com/portfolio/zonk/) before moving on to more uplifting tones and some soul and funk classics, like Supreme Jubilees' "Do You Believe". Later we meet two recent releases by Project Pablo, who seems to be on fire at the moment and actually develops what feels like a signature sound with those recognizable, lush, laidback synth patches.
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268704353&amp;color=4c4754&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268704353&amp;color=90a1ff&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 [Download (FLAC)](https://api.soundcloud.com/tracks/268704353/download?client_id=cUa40O3Jg3Emvp6Tv4U6ymYYO50NUGpJ)
 
