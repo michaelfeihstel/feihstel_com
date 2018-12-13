@@ -16,3 +16,6 @@
 
 # Ignore .DS_store file
 .DS_Store
+
+# sublime text workspace files
+feihstel_com-middleman.sublime-workspace
