@@ -11,7 +11,7 @@
 			"file": "source/index.html.slim",
 			"settings":
 			{
-				"buffer_size": 44,
+				"buffer_size": 532,
 				"line_ending": "Unix"
 			}
 		},
@@ -19,7 +19,7 @@
 			"file": "source/stylesheets/site.css.scss",
 			"settings":
 			{
-				"buffer_size": 38,
+				"buffer_size": 121,
 				"line_ending": "Unix"
 			}
 		}
@@ -65,9 +65,7 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/michaelfeihstel/projects/feihstel_com-middleman",
-		"/Users/michaelfeihstel/projects/feihstel_com-middleman/source",
-		"/Users/michaelfeihstel/projects/feihstel_com-middleman/source/stylesheets"
+		"/Users/michaelfeihstel/projects/feihstel_com"
 	],
 	"file_history":
 	[
@@ -99,7 +97,7 @@
 	],
 	"find":
 	{
-		"height": 71.0
+		"height": 32.0
 	},
 	"find_in_files":
 	{
@@ -145,7 +143,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 44,
+						"buffer_size": 532,
 						"regions":
 						{
 						},
@@ -159,7 +157,9 @@
 						"settings":
 						{
 							"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-							"syntax": "Packages/Ruby Slim/Syntaxes/Ruby Slim.tmLanguage"
+							"syntax": "Packages/Ruby Slim/Syntaxes/Ruby Slim.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -174,15 +174,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 38,
+						"buffer_size": 121,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								38,
-								38
+								0,
+								0
 							]
 						],
 						"settings":
@@ -202,7 +202,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 33.0
+		"height": 32.0
 	},
 	"input":
 	{
@@ -239,7 +239,7 @@
 	"project": "feihstel_com-middleman.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 60.0
 	},
 	"save_all_on_build": true,
 	"select_file":
