@@ -25,6 +25,7 @@ nav.main-nav {
 .social-links__list {
 	list-style: none;
 	padding: 0;
+	margin: 0;
 }
 
 .social-links__item {
@@ -43,4 +44,19 @@ ul {
 	margin-bottom: 1rem;
 	padding: 0;
 	list-style: none;
+}
+
+.pagination__container {
+	display: flex;
+	justify-content: space-between;
+	padding-top: 1rem;
+	border-top: 1px solid $black;
+}
+
+.pagination__section {
+	margin-right: 1rem;
+
+	&:last-child {
+		margin-right: 0;
+	}
 }

@@ -4,9 +4,8 @@ html
     = partial "partials/head"
 
   body class=page_classes
-    .container
-      aside
-        = partial "partials/aside"
-      main
-        .content
-          = yield
+    aside
+      = partial "partials/aside"
+    main
+      .content
+        = yield

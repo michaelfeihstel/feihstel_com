@@ -2,47 +2,70 @@ html {
 	font-family: $body-font;
 	font-size: 1rem;
 	color: $black;
-	line-height: 1.5;
+	line-height: 1.65;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: $header-font;
-	font-weight: 400;
+	margin: 2.75rem 0 1.05rem;
+  font-family: $header-font;
+  font-weight: 700;
+  line-height: 1.25;
 }
 
 h1 {
-	font-size: 1.602rem;
-	margin: 1.414rem 0 0.5rem;
+  font-size: 2.488em;
+}
+
+h1.root-link,
+h1.post__title {
+	margin: 0 0 1.05rem;
 }
 
 h2 {
-	font-size: 1.424rem;
+	font-size: 2.074em;
 }
 
 h3 {
-	font-size: 1.266rem;
+	font-size: 1.728em;
 }
 
 h4 {
-	font-size: 1.125rem;
+	font-size: 1.44em;
 }
 
 p {
-	margin-bottom: 1rem;
+	margin-bottom: 1.15rem;
 }
 
 a {
-	color: $sky-blue;
+	@include transition();
+	border-bottom: 1px solid $black;
+	color: $black;
 	text-decoration: none;
 }
 
 a:hover {
-	border-bottom: 1px solid $sky-blue;
+	color: $sky-blue;
+	border-color: $sky-blue;
+}
+
+aside a {
+	color: $white;
+	border-color: $white;
+}
+
+aside a:hover {
+	color: $mint-gray;
+	border-color: $mint-gray;
 }
 
 label {
 	font-family: $header-font;
 	color: #777;
+}
+
+aside label {
+	color: #ddd;
 }
 
 .truncate {

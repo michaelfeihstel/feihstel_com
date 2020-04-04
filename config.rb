@@ -23,6 +23,7 @@ activate :blog do |blog|
   blog.sources = "posts/{year}-{month}-{day}-{title}.html"
   blog.permalink = "/posts/{title}.html"
   blog.layout = "post"
+  blog.paginate = true
 end
 
 page "/feed.xml", :layout => false

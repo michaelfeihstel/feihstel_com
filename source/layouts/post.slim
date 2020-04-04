@@ -4,13 +4,12 @@ html
     = partial "partials/head"
 
   body class=page_classes
-    .container
-      aside
-        = partial "partials/aside"
-      main
-        .content
-          h1.post__title = current_article.title
-          span.post__meta = "Published on #{current_article.date.strftime('%B %e %Y')}"
-          - if current_article.data.image
-            = image_tag current_article.data.image
-          = yield
+    aside
+      = partial "partials/aside"
+    main
+      .content
+        h1.post__title = current_article.title
+        span.post__meta = "Published on #{current_article.date.strftime('%B %e %Y')}"
+        - if current_article.data.image
+          = image_tag current_article.data.image
+        = yield

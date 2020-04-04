@@ -6,17 +6,17 @@ html {
 }
 
 body {
-	background-color: $white;
+	background-color: $mint-gray;
 
 	@include tablet-portrait {
-		background-color: $mint-gray;
+		border: 1rem solid $white;
+		display: flex;
 		position: fixed;
 		left: 0;
 		right: 0;
 		bottom: 0;
 		top: 0;
 		overflow: hidden;
-		border: 1rem solid $white;
 	}
 }
 
@@ -24,28 +24,15 @@ img {
 	max-width: 100%;
 }
 
-.container {
-	padding: 2rem 0;
-
-	@include tablet-portrait {
-		position: fixed;
-		top: 0;
-		bottom: 0;
-		right: 0;
-		left: 0;
-		margin: 1rem;
-		display: flex;
-		align-items: stretch;
-		flex-direction: row;
-	}
-}
-
 aside {
+	@include transition(800ms);
+	background-color: $black;
 	display: flex;
 	flex-direction: column;
-	padding: 0 2rem;
+	padding: 2rem;
 	flex: 0 0 200px;
-	border-right: 1px solid #aaa;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
 
 	@include tablet-portrait {
 		flex: 0 0 200px;
@@ -61,20 +48,16 @@ aside {
 }
 
 main {
-	background-color: $mint-gray;
 	flex: 1 1 auto;
-	margin: 1rem;
-	padding: 0 1rem;
 	overflow-y: scroll;
 	-webkit-overflow-scrolling: touch;
 
 	@include tablet-portrait {
-		margin: 0;
-		padding: 0 4rem;
 	}
 }
 
 .content {
 	width: 100%;
 	max-width: 50rem;
+	padding: 2rem;
 }

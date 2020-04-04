@@ -1,22 +1,18 @@
 /* COLORS */
 $slate: #4C4754;
-$mint-gray: #EBEBF0;
+$mint-gray: #f4f6f9;;
 $white: #FFF;
 $sky-blue: #90a1ff;
+$yellow: #ecff8e;
 $black: #333;
+$random: rgba(random(180)+75,random(180)+75,random(180)+75,1);
 
 $background-color: $mint-gray;
 $accent-color: $sky-blue;
 
 /* FONTS */
-@font-face {
-	font-family: "Futura";
-	src: url("/assets/fonts/FuturaLT.ttf");
-	font-weight: 400;
-}
-
-$header-font: "Futura";
-$body-font: "Heebo", "sans-serif";
+$header-font: "Inter", "Helvetica Neue", "Sans-serif";
+$body-font: "Inter", "Helvetica Neue", "Sans-serif";
 
 /* BREAKPOINTS */
 $end-mobile: 767px;
@@ -25,6 +21,15 @@ $end-tablet-portrait: 1023px;
 $start-tablet-landscape: 1024px;
 $end-tablet-landscape: 1279px;
 $start-desktop: 1280px;
+
+/* TRANSITION */
+@mixin transition($duration: false) {
+  @if $duration {
+    transition: $duration ease-in-out;
+  } @else {
+    transition: 140ms ease-in-out;
+  }
+}
 
 @mixin tablet-portrait() {
   @media screen and (min-width: $start-tablet-portrait) {
