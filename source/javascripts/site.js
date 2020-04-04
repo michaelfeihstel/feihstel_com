@@ -1,8 +1,8 @@
 //= require turbolinks
 
 function setAsideBackgroundColor() {
-  var lowerLimit = 20;
-  var upperLimit = 180;
+  var lowerLimit = 10;
+  var upperLimit = 200;
   var r = Math.random() * (upperLimit - lowerLimit) + lowerLimit
   var g = Math.random() * (upperLimit - lowerLimit) + lowerLimit
   var b = Math.random() * (upperLimit - lowerLimit) + lowerLimit
