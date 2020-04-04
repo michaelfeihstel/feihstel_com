@@ -35,14 +35,6 @@ aside {
 	-webkit-overflow-scrolling: touch;
 
 	@include tablet-portrait {
-		flex: 0 0 200px;
-	}
-
-	@include tablet-landscape {
-		flex: 0 0 270px;
-	}
-
-	@include desktop {
 		flex: 0 0 300px;
 	}
 }
