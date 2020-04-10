@@ -6,7 +6,7 @@ tags: mixes
 A blooming spring selection that slowly evolves into a fittingly uplifting soundtrack for the season and may also serve as a welcome change of tone during these strange days of corona-induced isolation.
 READMORE
 
-As tradition of this series dictates this episode, again, takes its time to calmly drip, doze and drift through an extensive ambient section before slowly moving on to more colorful pastures: Psychedelic folk and roadtrippy pop, followed by a brief latin section that paves the way to more uplifting and lighthearted territories, which evolve and escalate into classic disco, soul and funk throughout the rest of the remaining odd 2 ours before finding an ending in one of my last year's favorites: Justine's "Wordless Songs EP". Probably out of place in this setting, but a great closer regardless.
+As tradition of this series dictates this episode, again, takes its time to calmly drip, doze and drift through an extensive ambient section before slowly moving on to more colorful pastures: Psychedelic folk and roadtrippy pop, followed by a brief latin section that paves the way to more uplifting and lighthearted territories, which evolve and escalate into classic disco, soul and funk throughout the rest of the remaining odd 2 hours before finding an ending in one of my last year's favorites: Justine's "Wordless Songs EP". Probably out of place in this setting, but a great closer regardless.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/785233096&color=333&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=false"></iframe>
 
