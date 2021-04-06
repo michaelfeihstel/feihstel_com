@@ -69,5 +69,3 @@ configure :build do
 end
 
 activate :directory_indexes
-
-activate :sprockets

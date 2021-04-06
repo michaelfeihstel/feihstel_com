@@ -1,5 +1,3 @@
-//= require turbolinks
-
 function setAsideBackgroundColor() {
   var lowerLimit = 10;
   var upperLimit = 200;
